@@ -1,0 +1,33 @@
+name: Atualizar repositórios públicos no README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * 1"
+
+concurrency:
+  group: update-readme-repos
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Atualizar tabela de repositórios
+        run: python3 scripts/update_public_repos.py
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração."
+          else
+            git commit -m "docs: atualizar lista de repositórios públicos"
+            git push
+          fi
