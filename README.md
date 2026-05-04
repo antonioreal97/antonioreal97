@@ -22,9 +22,6 @@
   <a href="mailto:antonioreal97@gmail.com">
     <img src="https://img.shields.io/badge/E%E2%80%91mail-antonioreal97%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="tel:+5561982762481">
-    <img src="https://img.shields.io/badge/Celular-%2861%29%2098276--2481-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp / telefone" />
-  </a>
 </div>
 
 Atuo com **frontend e backend**, **APIs REST**, **dados** e **machine learning** em projetos que vão de portais institucionais e PWAs **offline-first** a **multi-tenant**, **RBAC** e **dashboards em tempo real**. No dia a dia também aplico **SEO técnico**, **integrações** (ex.: Google Drive API) e **automação** (ex.: **n8n**).
@@ -280,6 +277,5 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 ## Onde me encontrar
 
 - **E-mail:** [antonioreal97@gmail.com](mailto:antonioreal97@gmail.com)
-- **Celular / WhatsApp:** (61) 98276-2481
 - **LinkedIn:** [linkedin.com/in/antonio-c-corte-real](https://www.linkedin.com/in/antonio-c-corte-real/)
 - **GitHub:** [github.com/antonioreal97](https://github.com/antonioreal97)
