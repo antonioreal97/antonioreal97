@@ -251,7 +251,7 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 <!-- PUBLIC_REPOS_START -->
 | Repositório | Descrição | Linguagem | ⭐ |
 |-------------|-----------|-----------|-----|
-| [antonioreal97](https://github.com/antonioreal97/antonioreal97) | Portifolio | — | 0 |
+| [antonioreal97](https://github.com/antonioreal97/antonioreal97) | Portifolio | Python | 0 |
 | [dash.notria](https://github.com/antonioreal97/dash.notria) | Dashboards Ceasa | Python | 0 |
 | [dashboard_matriz](https://github.com/antonioreal97/dashboard_matriz) | Dashboard | Python | 0 |
 | [food4](https://github.com/antonioreal97/food4) | Aplicação para conectar supermercados a cozinhas solidárias | C# | 1 |
