@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Link permanente (recomendado): faça upload do GIF em assets/header.gif no repo antonioreal97 e use raw.githubusercontent.com/antonioreal97/antonioreal97/main/assets/header.gif -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc5MjE3NzEsIm5iZiI6MTc3NzkyMTQ3MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA0VDE5MDQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyMThlMWM2YWM1ZDJkYTk3OWU4Y2UyMjFiYjYxYzc4M2RmYTZlN2MwY2QxYTU2NjRjMzliOTc3NThkZjJlOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.uc_mAHPPBEEQ62ugWvSdzBXXN141RuFh7ZBQ-01mQMg" width="420" alt="Ilustração animada: desenvolvedor trabalhando no laptop" />
+  <!-- Banner SVG próprio e permanente (hospedado neste repo). Não expira e não depende de terceiros. -->
+  <img src="./assets/header.svg" width="820" alt="Banner: Antônio C. Corte Real — full-stack & ML engineer" />
   <br /><br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+sou+Ant%C3%B4nio+C.+Corte+Real!;Full-stack+%E2%80%A2+ML+engineer+%28Jr%29+%E2%80%A2+Bras%C3%ADlia%E2%80%93DF;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+Dados+%E2%80%A2+IA;Open+to+collaborations+-+English+%26+Portuguese" alt="Mensagem animada: apresentação em português e inglês" />
 </div>
@@ -24,9 +24,9 @@
   </a>
 </div>
 
-Atuo com **frontend e backend**, **APIs REST**, **dados** e **machine learning** em projetos que vão de portais institucionais e PWAs **offline-first** a **multi-tenant**, **RBAC** e **dashboards em tempo real**. No dia a dia também aplico **SEO técnico**, **integrações** (ex.: Google Drive API) e **automação** (ex.: **n8n**).
+Atuo com **frontend e backend**, **APIs REST**, **dados** e **machine learning**, em projetos que vão de portais institucionais e **PWAs offline-first** a sistemas **multi-tenant** com **RBAC** e **dashboards em tempo real**. No dia a dia também aplico **SEO técnico**, **integrações** (ex.: Google Drive API) e **automação** (ex.: **n8n**).
 
-**Diferenciais:** inglês avançado com **experiência internacional no Canadá**; visão computacional com **OpenCV**, **TensorFlow** e **PyTorch** voltada a classificação, padrões e rastreamento em **imagem e vídeo**; familiaridade com **produção audiovisual** (OBS Studio, vMix, Premiere, DaVinci Resolve, CapCut, Canva).
+**Diferenciais:** inglês avançado com **experiência internacional no Canadá**; visão computacional com **OpenCV**, **TensorFlow** e **PyTorch** aplicada a classificação, detecção de padrões e rastreamento em **imagem e vídeo**; e familiaridade com **produção audiovisual** (OBS Studio, vMix, Premiere, DaVinci Resolve, CapCut, Canva).
 
 ### About (EN)
 
@@ -35,6 +35,18 @@ Full-stack developer and **junior ML engineer** based in **Brasília, Brazil**. 
 ---
 
 ## Experiência profissional
+
+### [Ecofiniti](https://ecofiniti.com/) — Desenvolvedor web & especialista em SEO · profissional independente · 2026–atual
+
+Consultoria internacional de sustentabilidade corporativa sediada em **Londres (Reino Unido)**.
+
+- **Auditoria e SEO técnico:** correção de erros técnicos, estrutura de URLs, indexação e velocidade de carregamento.
+- **SEO on-page:** meta tags, headings, **HTML semântico** e **Schema.org**.
+- Otimização de **Core Web Vitals** (LCP, CLS, FID) para melhor experiência do usuário.
+- Pesquisa e mapeamento de **palavras-chave** estratégicas para ampliar a visibilidade orgânica.
+- Desenvolvimento e ajustes do site com **Next.js / React**.
+- Configuração e monitoramento via **Google Search Console** e **Google Analytics**.
+- **Resultados:** melhora no posicionamento orgânico, aumento de tráfego e redução de erros técnicos de SEO.
 
 ### [Centro P³ UFVJM](https://www.p3ufvjm.com.br/) — Desenvolvedor frontend · 2025–2026
 
