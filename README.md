@@ -182,6 +182,30 @@ Produto/arquitetura: **multi-tenant**, **RBAC**, **PWA**, offline-first · Autom
 
 Projetos pessoais e de estudo complementam o trabalho na **Notriá**, **Centro P³** e outros contextos citados acima.
 
+### Retorno Seguro · leva-carro-seguro
+
+Plataforma **SaaS B2B** para seguradoras oferecerem o benefício de *retorno seguro*: quando o segurado não pode dirigir, uma equipe o leva como passageiro no próprio veículo.
+
+- **Stack:** TypeScript (monorepo **pnpm**), NestJS, Prisma, PostgreSQL, Redis, RabbitMQ, Next.js (App Router), Expo e Zod.
+- **Destaques:** arquitetura em monorepo com API, **geo-service** (despacho e elegibilidade), web e mobile; **RBAC** (cliente, motorista, seguradora, admin); fluxo completo de corrida e portal da seguradora.
+- **Repositório:** [antonioreal97/leva-carro-seguro](https://github.com/antonioreal97/leva-carro-seguro)
+
+### VcQsabe · tasty-tinder-tales
+
+Aplicativo **mobile-first** para decidir "onde comer agora?" por meio de duelos entre restaurantes próximos, com gamificação e cupons — em transição para um modelo **B2B** com portal de parceiros.
+
+- **Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, framer-motion, Supabase (Auth + Postgres com **RLS**), Google Maps Places API e FastAPI (ML opcional).
+- **Destaques:** discovery por geolocalização, torneio mata-mata, check-in e recompensas; portal B2B com ofertas auditáveis e insights com **k-anonimato**; **compliance LGPD** (consentimento granular, rotas legais e políticas de retenção).
+- **Repositório:** [antonioreal97/tasty-tinder-tales](https://github.com/antonioreal97/tasty-tinder-tales)
+
+### Equipe S4U · event-team-sync
+
+Sistema de **gestão de equipes para eventos audiovisuais**, com priorização de equipes e gestão de freelancers.
+
+- **Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui; Node.js, Express, PostgreSQL, JWT e Docker.
+- **Destaques:** autenticação **JWT** com proteção de rotas; escalação dinâmica (alocação pendente até a confirmação do freelancer); gestão de eventos, equipes, pagamentos/diárias, equipamentos e notificações.
+- **Repositório:** [antonioreal97/event-team-sync](https://github.com/antonioreal97/event-team-sync)
+
 ### food4
 
 Aplicação para conectar supermercados a cozinhas solidárias.
@@ -266,13 +290,16 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 | [antonioreal97](https://github.com/antonioreal97/antonioreal97) | Portifolio | Python | 0 |
 | [dash.notria](https://github.com/antonioreal97/dash.notria) | Dashboards Ceasa | Python | 0 |
 | [dashboard_matriz](https://github.com/antonioreal97/dashboard_matriz) | Dashboard | Python | 0 |
+| [event-team-sync](https://github.com/antonioreal97/event-team-sync) | — | TypeScript | 0 |
 | [food4](https://github.com/antonioreal97/food4) | Aplicação para conectar supermercados a cozinhas solidárias | C# | 1 |
+| [leva-carro-seguro](https://github.com/antonioreal97/leva-carro-seguro) | — | TypeScript | 1 |
 | [MLXp](https://github.com/antonioreal97/MLXp) | MLXp | JavaScript | 1 |
 | [notria](https://github.com/antonioreal97/notria) | Notriá Consultoria | CSS | 0 |
 | [Proj_ML](https://github.com/antonioreal97/Proj_ML) | Machine Learning Projects | Jupyter Notebook | 0 |
 | [Rascunhos](https://github.com/antonioreal97/Rascunhos) | — | Jupyter Notebook | 0 |
 | [RouteX](https://github.com/antonioreal97/RouteX) | Gestão de frota de veiculos | JavaScript | 0 |
 | [RPG_game.beta](https://github.com/antonioreal97/RPG_game.beta) | RPG Game in Python | Python | 0 |
+| [tasty-tinder-tales](https://github.com/antonioreal97/tasty-tinder-tales) | Web Site | TypeScript | 0 |
 <!-- PUBLIC_REPOS_END -->
 
 ---
@@ -280,8 +307,12 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 ## Estatísticas
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antonioreal97&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioreal97&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antonioreal97&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioreal97&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonioreal97&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
 ---
