@@ -288,6 +288,7 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 | Repositório | Descrição | Linguagem | ⭐ |
 |-------------|-----------|-----------|-----|
 | [antonioreal97](https://github.com/antonioreal97/antonioreal97) | Portifolio | Python | 0 |
+| [condo.ai](https://github.com/antonioreal97/condo.ai) | — | TypeScript | 0 |
 | [dash.notria](https://github.com/antonioreal97/dash.notria) | Dashboards Ceasa | Python | 0 |
 | [dashboard_matriz](https://github.com/antonioreal97/dashboard_matriz) | Dashboard | Python | 0 |
 | [event-team-sync](https://github.com/antonioreal97/event-team-sync) | — | TypeScript | 0 |
