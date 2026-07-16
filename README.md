@@ -24,13 +24,17 @@
   </a>
 </div>
 
-Atuo com **frontend e backend**, **APIs REST**, **dados** e **machine learning**, em projetos que vão de portais institucionais e **PWAs offline-first** a sistemas **multi-tenant** com **RBAC** e **dashboards em tempo real**. No dia a dia também aplico **SEO técnico**, **integrações** (ex.: Google Drive API) e **automação** (ex.: **n8n**).
+Atualmente atuo como **Analista de SEO na [Ecofiniti](https://ecofiniti.com/)** — consultoria internacional de sustentabilidade corporativa sediada em **Londres (Reino Unido)**. Conduzo **auditoria e SEO técnico** (correção de erros, estrutura de URLs, indexação e velocidade), **SEO on-page** (meta tags, headings, **HTML semântico**, **Schema.org**), otimização de **Core Web Vitals** (LCP, CLS, FID) e **pesquisa de palavras-chave**, com monitoramento via **Google Search Console**, **Google Analytics**, **GBP**, **Semrush** e **Ahrefs** — desenvolvendo e ajustando o site em **Next.js / React** para ampliar tráfego e posicionamento orgânico.
+
+Essa atuação em SEO se apoia numa base **full stack**: **frontend e backend**, **APIs REST** e **arquitetura de sistemas**, do levantamento de requisitos à entrega em produção. Já construí de portais institucionais e **PWAs offline-first** a **plataformas SaaS B2B** em monorepo (**NestJS + Prisma**), sistemas **multi-tenant** com **RBAC** e **dashboards em tempo real**, além de **dados e machine learning**, **integrações** (ex.: Google Drive API) e **automação** (ex.: **n8n**).
 
 **Diferenciais:** inglês avançado com **experiência internacional no Canadá**; visão computacional com **OpenCV**, **TensorFlow** e **PyTorch** aplicada a classificação, detecção de padrões e rastreamento em **imagem e vídeo**; e familiaridade com **produção audiovisual** (OBS Studio, vMix, Premiere, DaVinci Resolve, CapCut, Canva).
 
 ### About (EN)
 
-Full-stack developer and **junior ML engineer** based in **Brasília, Brazil**. I build **React / Next.js** frontends, **Node** backends, **multi-tenant** systems with **RBAC**, **offline-first PWAs**, **real-time dashboards**, and **REST APIs** (PostgreSQL, Redis, RabbitMQ, Docker). **Advanced English** with international experience in **Canada**. Strong interest in **SEO**, **automation (n8n)**, and **CV / ML** (OpenCV, TensorFlow, PyTorch). Open to roles and collaborations — [LinkedIn](https://www.linkedin.com/in/antonio-c-corte-real/) or e-mail.
+Currently an **SEO Analyst at [Ecofiniti](https://ecofiniti.com/)**, an international corporate-sustainability consultancy based in **London (UK)**. I run **technical SEO audits** (crawlability, URL structure, indexing, load speed), **on-page SEO** (meta tags, headings, semantic HTML, **Schema.org**), **Core Web Vitals** optimization, and **keyword research**, tracking with **Google Search Console**, **GA**, **GBP**, **Semrush** and **Ahrefs**, while building and tuning the **Next.js / React** site to grow organic traffic and rankings.
+
+This SEO work sits on a **full-stack** foundation: **React / Next.js** frontends, **Node / NestJS / ASP.NET Core** backends, **B2B SaaS** platforms in monorepos (Prisma), **multi-tenant** systems with **RBAC**, **offline-first PWAs**, **real-time dashboards** and **REST APIs** (PostgreSQL, Redis, RabbitMQ, Docker). **Advanced English** with international experience in **Canada**; also **automation (n8n)** and **CV / ML** (OpenCV, TensorFlow, PyTorch). Open to roles and collaborations — [LinkedIn](https://www.linkedin.com/in/antonio-c-corte-real/) or e-mail.
 
 ---
 
@@ -56,7 +60,7 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 - **Multilíngue (PT/EN)** e uso de **Three.js** na experiência de navegação.
 - **Code splitting**, otimização e **deploy na Vercel** em produção.
 
-### [Notriá Consultoria](https://www.consultorianotria.com.br/) — Consultoria em sistemas e dados · desenvolvimento full stack e arquitetura · 2024–atual
+### [Notriá Consultoria](https://www.consultorianotria.com.br/) — Consultoria em sistemas e dados · desenvolvimento full stack e arquitetura · 2025–2026
 
 - Liderança técnica em **plataforma de gestão escalável**; **multi-tenant** com isolamento de dados.
 - App **PWA offline-first**, **RBAC**, **dashboards** com monitoramento em tempo real.
@@ -92,7 +96,7 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 - **Análise e desenvolvimento de sistemas** (em andamento) · [PUC Minas](https://www.pucminas.br/) · 2024–2026  
 - **Pós-graduação em Ciência de Dados e Inteligência Artificial** · [UniCEUB](https://uniceub.br/) · 2023–2025  
 - **MBA em Business Intelligence** · Descomplica · 2022–2023  
-- **Graduação em Administração de Empresas** · [UniCEUB](https://uniceub.br/) · 2016–2021  
+- **Graduação em Administração de Empresas** · [UniCEUB](https://uniceub.br/) · 2016–2020  
 
 ---
 
