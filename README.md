@@ -305,6 +305,7 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 | [RouteX](https://github.com/antonioreal97/RouteX) | Gestão de frota de veiculos | JavaScript | 0 |
 | [RPG_game.beta](https://github.com/antonioreal97/RPG_game.beta) | RPG Game in Python | Python | 0 |
 | [tasty-tinder-tales](https://github.com/antonioreal97/tasty-tinder-tales) | Web Site | TypeScript | 0 |
+| [zoi-project](https://github.com/antonioreal97/zoi-project) | Zói | TypeScript | 0 |
 <!-- PUBLIC_REPOS_END -->
 
 ---
