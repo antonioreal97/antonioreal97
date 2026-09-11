@@ -2,7 +2,7 @@
   <!-- Banner SVG próprio e permanente (hospedado neste repo). Não expira e não depende de terceiros. -->
   <img src="./assets/header.svg" width="820" alt="Banner: Antônio C. Corte Real — full-stack & ML engineer" />
   <br /><br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+sou+Ant%C3%B4nio+C.+Corte+Real!;Full-stack+%E2%80%A2+ML+engineer+%28Jr%29+%E2%80%A2+Bras%C3%ADlia%E2%80%93DF;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+Dados+%E2%80%A2+IA;Open+to+collaborations+-+English+%26+Portuguese" alt="Mensagem animada: apresentação em português e inglês" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+sou+Ant%C3%B4nio+C.+Corte+Real!;Full-stack+%E2%80%A2+ML+engineer+%28Jr%29+%E2%80%A2+Bras%C3%ADlia%E2%80%93DF;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+GPU;Open+to+collaborations+-+English+%26+Portuguese" alt="Mensagem animada: apresentação em português e inglês" />
 </div>
 
 # Antônio Conceição Corte Real
@@ -16,6 +16,9 @@
   <a href="https://github.com/antonioreal97?tab=repositories">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rios-GitHub-181717?style=flat&logo=github" alt="Repositórios no GitHub" />
   </a>
+  <a href="https://antonio-site-olive.vercel.app/">
+    <img src="https://img.shields.io/badge/Site-portf%C3%B3lio-000000?style=flat&logo=vercel&logoColor=white" alt="Site / portfólio" />
+  </a>
   <a href="https://www.linkedin.com/in/antonio-c-corte-real/">
     <img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -24,23 +27,23 @@
   </a>
 </div>
 
-Atualmente atuo como **Analista de SEO na [Ecofiniti](https://ecofiniti.com/)** — consultoria internacional de sustentabilidade corporativa sediada em **Londres (Reino Unido)**. Conduzo **auditoria e SEO técnico** (correção de erros, estrutura de URLs, indexação e velocidade), **SEO on-page** (meta tags, headings, **HTML semântico**, **Schema.org**), otimização de **Core Web Vitals** (LCP, CLS, FID) e **pesquisa de palavras-chave**, com monitoramento via **Google Search Console**, **Google Analytics**, **GBP**, **Semrush** e **Ahrefs** — desenvolvendo e ajustando o site em **Next.js / React** para ampliar tráfego e posicionamento orgânico.
+Atualmente atuo como **Analista de SEO na [Ecofiniti](https://ecofiniti.com/)** — consultoria internacional de sustentabilidade corporativa sediada em **Londres (Reino Unido)**. Conduzo **auditoria e SEO técnico** (correção de erros, estrutura de URLs, indexação e velocidade), **SEO on-page** (meta tags, headings, **HTML semântico**, **Schema.org**), otimização de **Core Web Vitals** (LCP, CLS, FID) e **pesquisa de palavras-chave**, com monitoramento via **Google Search Console**, **Google Analytics**, **GBP**, **Semrush** e **Ahrefs** — desenvolvendo e ajustando o site no **Wix** para ampliar tráfego e posicionamento orgânico.
 
-Essa atuação em SEO se apoia numa base **full stack**: **frontend e backend**, **APIs REST** e **arquitetura de sistemas**, do levantamento de requisitos à entrega em produção. Já construí de portais institucionais e **PWAs offline-first** a **plataformas SaaS B2B** em monorepo (**NestJS + Prisma**), sistemas **multi-tenant** com **RBAC** e **dashboards em tempo real**, além de **dados e machine learning**, **integrações** (ex.: Google Drive API) e **automação** (ex.: **n8n**).
+Essa atuação em SEO se apoia numa base **full stack**: **frontend e backend**, **APIs REST**, DNS/domínio e **arquitetura de sistemas**, do levantamento de requisitos à entrega em produção. Já construí de portais institucionais e **PWAs offline-first** a **plataformas SaaS B2B** em monorepo (**NestJS + Prisma**), sistemas **multi-tenant** com **RBAC** e **dashboards em tempo real**, além de **dados e machine learning**, **integrações** (ex.: Google Drive API), **automação** (ex.: **n8n**) e um **motor de efeitos de vídeo ao vivo em C++** ([CamVJ](https://github.com/antonioreal97/CamVJ)) com backends **Metal** e **Direct3D 11**.
 
-**Diferenciais:** inglês avançado com **experiência internacional no Canadá**; visão computacional com **OpenCV**, **TensorFlow** e **PyTorch** aplicada a classificação, detecção de padrões e rastreamento em **imagem e vídeo**; e familiaridade com **produção audiovisual** (OBS Studio, vMix, Premiere, DaVinci Resolve, CapCut, Canva).
+**Diferenciais:** inglês avançado com **experiência internacional no Canadá**; sistemas em **C++20** com GPU (Metal / Direct3D 11, shaders HLSL + MSL); visão computacional com **OpenCV**, **TensorFlow**, **PyTorch** e **Apple Vision** aplicada a classificação, detecção e rastreamento em **imagem e vídeo**; e familiaridade com **produção audiovisual** (OBS Studio, vMix, Premiere, DaVinci Resolve, CapCut, Canva).
 
 ### About (EN)
 
-Currently an **SEO Analyst at [Ecofiniti](https://ecofiniti.com/)**, an international corporate-sustainability consultancy based in **London (UK)**. I run **technical SEO audits** (crawlability, URL structure, indexing, load speed), **on-page SEO** (meta tags, headings, semantic HTML, **Schema.org**), **Core Web Vitals** optimization, and **keyword research**, tracking with **Google Search Console**, **GA**, **GBP**, **Semrush** and **Ahrefs**, while building and tuning the **Next.js / React** site to grow organic traffic and rankings.
+Currently an **SEO Analyst at [Ecofiniti](https://ecofiniti.com/)**, an international corporate-sustainability consultancy based in **London (UK)**. I run **technical SEO audits** (crawlability, URL structure, indexing, load speed), **on-page SEO** (meta tags, headings, semantic HTML, **Schema.org**), **Core Web Vitals** optimization, and **keyword research**, tracking with **Google Search Console**, **GA**, **GBP**, **Semrush** and **Ahrefs**, while building and tuning the **Wix** site to grow organic traffic and rankings.
 
-This SEO work sits on a **full-stack** foundation: **React / Next.js** frontends, **Node / NestJS / ASP.NET Core** backends, **B2B SaaS** platforms in monorepos (Prisma), **multi-tenant** systems with **RBAC**, **offline-first PWAs**, **real-time dashboards** and **REST APIs** (PostgreSQL, Redis, RabbitMQ, Docker). **Advanced English** with international experience in **Canada**; also **automation (n8n)** and **CV / ML** (OpenCV, TensorFlow, PyTorch). Open to roles and collaborations — [LinkedIn](https://www.linkedin.com/in/antonio-c-corte-real/) or e-mail.
+This SEO work sits on a **full-stack** foundation: **React / Next.js** frontends, **Node / NestJS / ASP.NET Core** backends, **B2B SaaS** platforms in monorepos (Prisma), **multi-tenant** systems with **RBAC**, **offline-first PWAs**, **real-time dashboards** and **REST APIs** (PostgreSQL, Redis, RabbitMQ, Docker). Also **C++20** real-time video ([CamVJ](https://github.com/antonioreal97/CamVJ): Metal / Direct3D 11, HLSL + MSL, Dear ImGui). **Advanced English** with international experience in **Canada**; also **automation (n8n)** and **CV / ML** (OpenCV, TensorFlow, PyTorch, Apple Vision). Open to roles and collaborations — [site](https://antonio-site-olive.vercel.app/), [LinkedIn](https://www.linkedin.com/in/antonio-c-corte-real/) or e-mail.
 
 ---
 
 ## Experiência profissional
 
-### [Ecofiniti](https://ecofiniti.com/) — Desenvolvedor web & especialista em SEO · profissional independente · 2026–atual
+### [Ecofiniti](https://ecofiniti.com/) — Analista de SEO · junho 2026–atual
 
 Consultoria internacional de sustentabilidade corporativa sediada em **Londres (Reino Unido)**.
 
@@ -48,11 +51,11 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 - **SEO on-page:** meta tags, headings, **HTML semântico** e **Schema.org**.
 - Otimização de **Core Web Vitals** (LCP, CLS, FID) para melhor experiência do usuário.
 - Pesquisa e mapeamento de **palavras-chave** estratégicas para ampliar a visibilidade orgânica.
-- Desenvolvimento e ajustes do site com **Next.js / React**.
-- Configuração e monitoramento via **Google Search Console** e **Google Analytics**.
+- Desenvolvimento e ajustes do site no **Wix**.
+- Configuração e monitoramento via **Google Search Console**, **GBP**, **Semrush**, **Ahrefs** e **Google Analytics**.
 - **Resultados:** melhora no posicionamento orgânico, aumento de tráfego e redução de erros técnicos de SEO.
 
-### [Centro P³ UFVJM](https://www.p3ufvjm.com.br/) — Desenvolvedor frontend · 2025–2026
+### [Centro P³ UFVJM](https://www.p3ufvjm.com.br/) — Desenvolvedor frontend · novembro 2025–abril 2026
 
 - Portal institucional com **React**, **TypeScript** e **Tailwind CSS** (performance, responsividade, componentização).
 - **SEO on-page** e **SEO técnico** (estrutura indexável, semântica, arquitetura da informação, rastreabilidade).
@@ -60,7 +63,7 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 - **Multilíngue (PT/EN)** e uso de **Three.js** na experiência de navegação.
 - **Code splitting**, otimização e **deploy na Vercel** em produção.
 
-### [Notriá Consultoria](https://www.consultorianotria.com.br/) — Consultoria em sistemas e dados · desenvolvimento full stack e arquitetura · 2025–2026
+### [Notriá Consultoria](https://www.consultorianotria.com.br/) — Consultoria em sistemas e dados · desenvolvimento full stack e arquitetura · maio 2025–abril 2026
 
 - Liderança técnica em **plataforma de gestão escalável**; **multi-tenant** com isolamento de dados.
 - App **PWA offline-first**, **RBAC**, **dashboards** com monitoramento em tempo real.
@@ -73,6 +76,7 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 
 - Coordenação de projetos **audiovisuais**, fluxos de captação/produção e entregas para eventos e transmissões.
 - Transmissões ao vivo com **OBS Studio** e **vMix** (switching, múltiplas fontes, áudio, gravação, distribuição).
+- Desenvolvimento do **[CamVJ](https://github.com/antonioreal97/CamVJ)**: motor de efeitos de vídeo ao vivo em **C++20** (GPU Metal / Direct3D 11) para LED, projetor e integração com switcher Blackmagic ATEM.
 - Ponte entre **tecnologia**, **operação** e **comunicação** na evolução dos serviços.
 
 ### Maruh Construtora — Auxiliar administrativo executivo · 2022–2023
@@ -93,8 +97,8 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 
 ## Formação acadêmica
 
-- **Análise e desenvolvimento de sistemas** (em andamento) · [PUC Minas](https://www.pucminas.br/) · 2024–2026  
-- **Pós-graduação em Ciência de Dados e Inteligência Artificial** · [UniCEUB](https://uniceub.br/) · 2023–2025  
+- **Análise e desenvolvimento de sistemas** (em andamento) · [PUC Minas](https://www.pucminas.br/) · agosto 2024–dezembro 2026  
+- **Pós-graduação em Ciência de Dados e Inteligência Artificial** · [UniCEUB](https://uniceub.br/) · agosto 2023–junho 2025  
 - **MBA em Business Intelligence** · Descomplica · 2022–2023  
 - **Graduação em Administração de Empresas** · [UniCEUB](https://uniceub.br/) · 2016–2020  
 
@@ -105,6 +109,7 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 <details>
 <summary><strong>Linguagens</strong></summary>
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -139,6 +144,21 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 ![CSS3](https://img.shields.io/badge/CSS-23272F?style=for-the-badge&logo=css&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/Vanilla%20JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>GPU, sistemas e vídeo ao vivo</strong></summary>
+
+![C++](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Direct3D](https://img.shields.io/badge/Direct3D%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ImGui](https://img.shields.io/badge/Dear%20ImGui-1F6FEB?style=for-the-badge&logoColor=white)
+
+C++20 · CMake · Metal (macOS) · Direct3D 11 (Windows) · shaders HLSL + MSL · Dear ImGui · Win32 / AppKit · Apple Vision (tracking) · Blackmagic DeckLink SDK (descoberta no Windows)
 
 </details>
 
@@ -176,7 +196,7 @@ Consultoria internacional de sustentabilidade corporativa sediada em **Londres (
 <details>
 <summary><strong>Produto, vídeo e automação (complementar)</strong></summary>
 
-Produto/arquitetura: **multi-tenant**, **RBAC**, **PWA**, offline-first · Automação: **n8n** · Áudio/vídeo: **OBS Studio**, **vMix**, **Adobe Premiere**, **DaVinci Resolve**, **CapCut**, **Canva**
+Produto/arquitetura: **multi-tenant**, **RBAC**, **PWA**, offline-first · Automação: **n8n** · Áudio/vídeo: **OBS Studio**, **vMix**, **Adobe Premiere**, **DaVinci Resolve**, **CapCut**, **Canva** · Motor ao vivo: **[CamVJ](https://github.com/antonioreal97/CamVJ)** (C++ / GPU)
 
 </details>
 
@@ -184,7 +204,15 @@ Produto/arquitetura: **multi-tenant**, **RBAC**, **PWA**, offline-first · Autom
 
 ## Projetos em destaque no GitHub
 
-Projetos pessoais e de estudo complementam o trabalho na **Notriá**, **Centro P³** e outros contextos citados acima.
+Projetos pessoais e de estudo complementam o trabalho na **Ecofiniti**, **Notriá**, **Centro P³**, **Sound4U** e outros contextos citados acima.
+
+### CamVJ
+
+Motor de **efeitos de vídeo ao vivo** para produção: uma câmera entra, a GPU processa, o quadro sai para painel de LED, projetor ou — no Windows, a partir do M1 — de volta a um switcher Blackmagic ATEM.
+
+- **Stack:** C++20, CMake, **Metal** (macOS) e **Direct3D 11** (Windows), shaders **HLSL** + **MSL**, Dear ImGui, Win32/AppKit; tracking com **Apple Vision** no macOS; descoberta **DeckLink** no Windows.
+- **Destaques:** pipeline GPU em 1920×1080 (orçamento 59,94 fps), onze efeitos, Auto Frame, webcam virtual, saída fullscreen para LED e modos PROGRAM (FX / Clean / Freeze / Black); build macOS em [Releases](https://github.com/antonioreal97/CamVJ/releases).
+- **Repositório:** [antonioreal97/CamVJ](https://github.com/antonioreal97/CamVJ)
 
 ### Retorno Seguro · leva-carro-seguro
 
@@ -292,6 +320,7 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 | Repositório | Descrição | Linguagem | ⭐ |
 |-------------|-----------|-----------|-----|
 | [antonioreal97](https://github.com/antonioreal97/antonioreal97) | Portifolio | Python | 0 |
+| [CamVJ](https://github.com/antonioreal97/CamVJ) | — | C++ | 0 |
 | [condo.ai](https://github.com/antonioreal97/condo.ai) | — | TypeScript | 0 |
 | [dash.notria](https://github.com/antonioreal97/dash.notria) | Dashboards Ceasa | Python | 0 |
 | [dashboard_matriz](https://github.com/antonioreal97/dashboard_matriz) | Dashboard | Python | 0 |
@@ -326,6 +355,7 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 
 ## Onde me encontrar
 
+- **Site:** [antonio-site-olive.vercel.app](https://antonio-site-olive.vercel.app/)
 - **E-mail:** [antonioreal97@gmail.com](mailto:antonioreal97@gmail.com)
 - **LinkedIn:** [linkedin.com/in/antonio-c-corte-real](https://www.linkedin.com/in/antonio-c-corte-real/)
 - **GitHub:** [github.com/antonioreal97](https://github.com/antonioreal97)
