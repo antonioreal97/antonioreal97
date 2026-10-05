@@ -329,6 +329,8 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 | [leva-carro-seguro](https://github.com/antonioreal97/leva-carro-seguro) | — | TypeScript | 1 |
 | [MLXp](https://github.com/antonioreal97/MLXp) | MLXp | JavaScript | 1 |
 | [notria](https://github.com/antonioreal97/notria) | Notriá Consultoria | CSS | 0 |
+| [PipeDesign](https://github.com/antonioreal97/PipeDesign) | Automação de rascunhos de peças de social media com n8n + Canva | JavaScript | 0 |
+| [PRAGMA-site](https://github.com/antonioreal97/PRAGMA-site) | Repositório para https://replit.com/@antonioreal97/PRAGMA-site | TypeScript | 0 |
 | [Proj_ML](https://github.com/antonioreal97/Proj_ML) | Machine Learning Projects | Jupyter Notebook | 0 |
 | [Rascunhos](https://github.com/antonioreal97/Rascunhos) | — | Jupyter Notebook | 0 |
 | [RouteX](https://github.com/antonioreal97/RouteX) | Gestão de frota de veiculos | JavaScript | 0 |
