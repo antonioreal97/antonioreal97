@@ -319,6 +319,7 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 <!-- PUBLIC_REPOS_START -->
 | Repositório | Descrição | Linguagem | ⭐ |
 |-------------|-----------|-----------|-----|
+| [agenteEM_chatbot](https://github.com/antonioreal97/agenteEM_chatbot) | Privacy-aware customer-service agent for Empório da Música, built with FastAPI, OpenAI Agents SDK, typed commerce tools, and hybrid RAG. | Python | 0 |
 | [antonioreal97](https://github.com/antonioreal97/antonioreal97) | Portifolio | Python | 0 |
 | [CamVJ](https://github.com/antonioreal97/CamVJ) | — | C++ | 0 |
 | [condo.ai](https://github.com/antonioreal97/condo.ai) | — | TypeScript | 0 |
@@ -327,6 +328,7 @@ Lista de **todos** os repositórios públicos da conta (ordenados por nome). Par
 | [event-team-sync](https://github.com/antonioreal97/event-team-sync) | — | TypeScript | 0 |
 | [food4](https://github.com/antonioreal97/food4) | Aplicação para conectar supermercados a cozinhas solidárias | C# | 1 |
 | [leva-carro-seguro](https://github.com/antonioreal97/leva-carro-seguro) | — | TypeScript | 1 |
+| [Licita-Insight](https://github.com/antonioreal97/Licita-Insight) | Pardal | TypeScript | 0 |
 | [MLXp](https://github.com/antonioreal97/MLXp) | MLXp | JavaScript | 1 |
 | [notria](https://github.com/antonioreal97/notria) | Notriá Consultoria | CSS | 0 |
 | [PipeDesign](https://github.com/antonioreal97/PipeDesign) | Automação de rascunhos de peças de social media com n8n + Canva | JavaScript | 0 |
